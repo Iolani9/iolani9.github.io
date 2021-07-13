@@ -44,7 +44,7 @@ img {
 /* SITE STRUCTURE */
 
 header {
-    background-color: rgb(102, 0, 0);
+    background-color: rgb(102, 0, 70);
     color: rgba(0, 0, 0, 0.8); 
     padding: 1em;
     display: grid;
@@ -83,7 +83,7 @@ header a:hover {
 
 /* MAIN */
 main {
-    background: rgba(0,0,0,.05);
+    background: rgba(0, 0, 0, 0.05);
 }
 
 /* HERO SECTION */
